@@ -7,7 +7,7 @@ All code must conform to the guidelines outlined in this document. This allows f
 1. Use `CamelCase` for all class and function names.
 
 #### Variables
-1. Use descriptive names for variables except where convention states otherwise (e.g. loop variable names)
+1. Use descriptive names for variables except where convention states otherwise (e.g. loop variable names).
   ```
     $counter = 1;
     // good
@@ -22,6 +22,7 @@ All code must conform to the guidelines outlined in this document. This allows f
   ```
 2. Variable names must be `lowercase`.
 3. Multi word variable names must be `separated_by_an_underscore`.
+
   ```
   $string = "string";
   $a_string = "a string";
