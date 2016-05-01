@@ -16,4 +16,6 @@ There will be a project for each of the following depending on the client requir
 Asana is not a traditional Agile project management system, however, the following guidelines will be used to simulate an agile environment.
 
 1. Tags will be used to determine the current task status
-  1. In Progress - Currently being worked on
+  1. `In Progress` - Currently being worked on
+  2. `Backlog` - Any item that isn't currently being worked on
+  3. 
