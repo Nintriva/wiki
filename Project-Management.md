@@ -18,4 +18,5 @@ Asana is not a traditional Agile project management system, however, the followi
 1. Tags will be used to determine the current task status
   1. `In Progress` - Currently being worked on
   2. `Backlog` - Any item that isn't currently being worked on
-  3. 
+  3. `Ready to Test` - Items that are completed and ready for QA
+  4. `Done` - Ready for deployment
