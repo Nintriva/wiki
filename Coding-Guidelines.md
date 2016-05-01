@@ -8,24 +8,24 @@ All code must conform to the guidelines outlined in this document. This allows f
 
 #### Variables
 1. Use descriptive names for variables except where convention states otherwise (e.g. loop variable names)
-```
-$counter = 1;
-// good
+  ```
+    $counter = 1;
+    // good
 
-$c = 1;
-// bad
+    $c = 1;
+    // bad
 
-for ($x = 1; $x < 5; $x++){
-...
-}
-// good
-```
+    for ($x = 1; $x < 5; $x++){
+    ...
+    }
+    // good
+  ```
 2. Variable names must be `lowercase`.
 3. Multi word variable names must be `separated_by_an_underscore`.
-```
-$string = "string";
-$a_string = "a string";
-```
+  ```
+  $string = "string";
+  $a_string = "a string";
+  ```
 
 ## 2. Documentation
 
