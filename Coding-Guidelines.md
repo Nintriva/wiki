@@ -24,8 +24,25 @@ All code must conform to the guidelines outlined in this document. This allows f
 3. Multi word variable names must be `separated_by_an_underscore`.
 
   ```
-  $string = "string";
-  $a_string = "a string";
+    $string = "string";
+    // good
+    $a_string = "a string";
+    // good
+
+    $String = "string";
+    // bad
+    $someString = "some string";
+    // bad
+  ```
+
+#### Constants
+1. Constants should be `CAPITALISED` and for multi-word constant names `SEPARATED_BY_UNDERSCORES`.
+  ```
+    STATUS_ACTIVE = 1;
+    // good
+
+    statusActive = 1;
+    // bad
   ```
 
 ## 2. Documentation
