@@ -6,12 +6,23 @@ All code must conform to the guidelines outlined in this document. This allows f
 #### Class & Function Names
 1. Use `CamelCase` for all class and function names.
   ```
-    public function MyFirstClass{
+    class MyFirstClass{
     ...
     }
     // good
 
-    public function myfirstClass{
+    class myfirstClass{
+    ...
+    }
+    // bad
+
+
+    public function MyFirstFunction{
+    ...
+    }
+    // good
+
+    public function myfirstFunction{
     ...
     }
     // bad
@@ -69,8 +80,13 @@ All code must conform to the guidelines outlined in this document. This allows f
     * @return integer The largest prime factor of $number
     **/
     public function FindLargestPrimeFactor($number){
+    ...
     }
     // good
+
+    public function GetLargestPrimeFactor($number){
+    ...
+    }
   ```
 
 ## 3. File Names
