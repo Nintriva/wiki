@@ -5,6 +5,17 @@ All code must conform to the guidelines outlined in this document. This allows f
 
 #### Class & Function Names
 1. Use `CamelCase` for all class and function names.
+  ```
+    public function MyFirstClass{
+    ...
+    }
+    // good
+
+    public function myfirstClass{
+    ...
+    }
+    // bad
+  ```
 
 #### Variables
 1. Use descriptive names for variables except where convention states otherwise (e.g. loop variable names).
