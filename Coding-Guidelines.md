@@ -58,6 +58,21 @@ All code must conform to the guidelines outlined in this document. This allows f
 
 ## 2. Documentation
 
+#### Classes & Functions
+1. Use [JavaDoc](http://www.oracle.com/technetwork/articles/java/index-137868.html), [PHPDoc](https://www.phpdoc.org/docs/latest/index.html) or [jsDoc](http://usejsdoc.org/about-getting-started.html) where appropriate. All three are very similar in structure with a few exceptions.
+
+2. All functions should have documentation meta data unless the function is sufficiently simple and the name is self explanatory.
+  ```
+    /**
+    * This function finds the largest prime factor of any given integer
+    * @param integer $number The number for which the largest prime factor should be found
+    * @return integer The largest prime factor of $number
+    **/
+    public function FindLargestPrimeFactor($number){
+    }
+    // good
+  ```
+
 ## 3. File Names
 
 ## 4. References
