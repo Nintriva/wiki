@@ -13,7 +13,11 @@ Asana should be used for updating projects and tasks. Files should be added to t
 ### 2. Slack
 Slack will be used for day to day communication. Asana and Github will be connected to Slack to allow for notifications to appear in the Slack feed. 
 
-The UK team members will attempt be online during the following hours: Monday - Friday 9AM - 5PM GMT. 
+Team members will attempt be online during the following hours: 
+```
+  UK Team - Monday - Friday 09:00 - 17:00 GMT
+  Kochi Team - Monday - Friday 05:30 - 14:00 GMT (10:00 - 18:30 IST)
+```
 
 Set the status to `away` when not currently available for chat.
 
