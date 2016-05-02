@@ -22,3 +22,15 @@ Asana is not a traditional Agile project management system, however, the followi
   4. `Ready to Test` - Items that are completed and ready for QA
   5. `Done` - Ready for deployment
   6. `Feature Request` - Requested by client but not in the current backlog
+
+### Time Tracking
+All tasks should be time tracked using [Toggl](https://toggl.com/). When tasks are completed the length of time that a task took to complete should be added in brackets to the front of the task. The units will be in hours. Tasks should be rounded up to the nearest half hour so the minimum amount of time on a task should be 0.5 hours.
+```
+  // task before completion
+  The first task
+
+  // task after completion
+  [1.0] The first task
+```
+
+This is not meant to be a method for keeping a track of a resource's time but a tool for helping with better project estimation in the future. 
