@@ -94,4 +94,6 @@ All code must conform to the guidelines outlined in this document. This allows f
 ## 4. References
 
 - [Python PEP Coding Guidelines](https://www.python.org/dev/peps/pep-0008/)
+- [PSR 2 Coding Guidelines](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+- [PSR 1 Coding Guidelines](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
 
