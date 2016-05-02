@@ -34,3 +34,11 @@ All tasks should be time tracked using [Toggl](https://toggl.com/). When tasks a
 ```
 
 This is not meant to be a method for keeping a track of a resource's time but a tool for helping with better project estimation in the future. 
+
+#### A Note About Due Dates
+
+The date on which a task is due means that it is ready for internal QA on that day. Developers should have completed all work and testing and committed code in preparation for testing.
+
+So, for example, if a task is due on Thursday 12th June 2016, the task must be committed to the repository by Wednesday 11th June, 2016 at 23:59:59.
+
+**If a task cannot be finished by the due date this must be communicated at least 24 hours (ideally 48 hours) before**
