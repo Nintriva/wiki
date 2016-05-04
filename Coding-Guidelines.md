@@ -68,6 +68,7 @@ All code must conform to the guidelines outlined in this document. This allows f
   ```
 
 ## 2. Documentation
+Ideally, code should be self documenting. Writing clear, concise, single function methods work better than bloated complex methods which perform several different tasks. See [Code Style](#3-code-style) for more information.
 
 #### Classes & Functions
 1. Use [JavaDoc](http://www.oracle.com/technetwork/articles/java/index-137868.html), [PHPDoc](https://www.phpdoc.org/docs/latest/index.html) or [jsDoc](http://usejsdoc.org/about-getting-started.html) where appropriate. All three are very similar in structure with a few exceptions.
@@ -89,9 +90,11 @@ All code must conform to the guidelines outlined in this document. This allows f
     }
   ```
 
-## 3. File Names
+## 3. Code Style
 
-## 4. References
+## 4. File Names
+
+## 5. References
 
 - [Python PEP Coding Guidelines](https://www.python.org/dev/peps/pep-0008/)
 - [PSR 2 Coding Guidelines](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
