@@ -5,7 +5,7 @@ Table of Contents:
 * [Coding Guidelines](Coding Guidelines)
 * [Project Management](Project Management)
 * [Communication](Communication)
-* [Development Tools, Languages & Platforms](Development Tools, Languages & Platforms)
+* [Programming Languages](Programming Languages)
  * [PHP](PHP)
  * [Javascript](Javascript)
  * [CSS](CSS)
@@ -14,3 +14,6 @@ Table of Contents:
  * [Wordpress](Wordpress)
  * [Yii](Wordpress)
  * [ColdFusion](ColdFusion)
+* [Platforms](Platforms)
+* [Development Tools](Development Tools)
+ 
